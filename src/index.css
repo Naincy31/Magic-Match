@@ -10,11 +10,11 @@ body{
 }
 
 .card .front{
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
 }
 
 .card .back{
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
 }
