@@ -89,7 +89,7 @@ function App() {
           disabled = {disabled}
         />
       ))}</div>
-      <h3>Turns: {turns}</h3>
+      <p>Turns: {turns}</p>
     </div>
   );
 }
